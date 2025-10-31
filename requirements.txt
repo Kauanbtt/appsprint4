@@ -1,0 +1,5 @@
+# Versões fixas (wheels prontos em Python 3.12) — builds rápidos no Streamlit Cloud
+streamlit==1.38.0
+pandas==2.2.2
+numpy==1.26.4
+scikit-learn==1.4.2
